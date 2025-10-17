@@ -66,3 +66,62 @@ This project is created for educational purposes as part of the **Full Stack Web
 
 **Author:** ntwali  
 **Repository:** [https://github.com/Ntwali-p/airbnb-clone-project.git
+## Project Roles and Responsibilities
+
+This section defines the key roles and responsibilities within the **Airbnb Clone Project**. Each team member contributes to building a functional, user-friendly, and scalable accommodation booking platform.
+
+### 1. Project Manager
+**Responsibilities:**
+- Oversee the entire project lifecycle, ensuring milestones and deadlines are met.
+- Coordinate communication between all team members.
+- Manage resources, schedules, and risks.
+- Ensure the project aligns with the defined objectives and scope.
+
+### 2. Product Owner
+**Responsibilities:**
+- Define the product vision and maintain the project backlog.
+- Prioritize features and tasks based on business value and user needs.
+- Act as the main liaison between stakeholders and the development team.
+- Validate deliverables to ensure they meet user expectations.
+
+### 3. Scrum Master
+**Responsibilities:**
+- Facilitate Agile ceremonies (daily stand-ups, sprint planning, retrospectives).
+- Remove blockers and support team efficiency.
+- Promote Agile best practices and continuous improvement.
+- Foster collaboration and clear communication.
+
+### 4. Frontend Developers
+**Responsibilities:**
+- Implement responsive and interactive user interfaces.
+- Integrate frontend components with backend APIs.
+- Ensure UI/UX consistency and accessibility.
+- Optimize web performance and responsiveness.
+
+### 5. Backend Developers
+**Responsibilities:**
+- Design and implement RESTful APIs and database models.
+- Manage authentication, authorization, and data security.
+- Integrate third-party services (e.g., payments, maps).
+- Ensure backend scalability and maintainability.
+
+### 6. Designers (UI/UX)
+**Responsibilities:**
+- Create wireframes, prototypes, and visual mockups.
+- Define visual style and ensure consistent branding.
+- Conduct usability testing and gather user feedback.
+- Collaborate with developers for accurate implementation.
+
+### 7. QA/Testers
+**Responsibilities:**
+- Develop and execute manual and automated test cases.
+- Identify, document, and verify bugs and fixes.
+- Perform regression and performance testing.
+- Ensure all features meet quality standards.
+
+### 8. DevOps Engineers
+**Responsibilities:**
+- Configure and maintain CI/CD pipelines.
+- Manage deployment environments and cloud infrastructure.
+- Monitor system performance and security.
+- Implement backups, scaling, and recovery procedures.
