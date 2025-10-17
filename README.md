@@ -125,3 +125,71 @@ This section defines the key roles and responsibilities within the **Airbnb Clon
 - Manage deployment environments and cloud infrastructure.
 - Monitor system performance and security.
 - Implement backups, scaling, and recovery procedures.
+## UI Component Patterns
+
+This section outlines the main reusable UI components that will be implemented in the **Airbnb Clone Project**. These components will follow modern frontend design principles — emphasizing consistency, accessibility, and scalability.
+
+### 1. Navbar (Navigation Bar)
+**Description:**
+The Navbar will be a persistent header displayed across all pages. It will include the Airbnb logo, navigation links, a search bar, and user account options.
+
+**Features:**
+- Responsive design for mobile and desktop views.  
+- Dropdown menu for user profile actions (Login, Logout, Bookings).  
+- Sticky behavior for easy access while scrolling.  
+
+### 2. Property Card
+**Description:**
+A core component used to display property listings in a grid or list view. It provides essential information about each accommodation.
+
+**Features:**
+- Displays property image, title, location, price per night, and rating.  
+- Includes a "favorite" (heart) button for saving properties.  
+- Clickable to open the property details page.  
+- Responsive layout that adapts to screen size.  
+
+### 3. Footer
+**Description:**
+The Footer provides navigation and informational links that appear at the bottom of every page.
+
+**Features:**
+- Includes links to About, Contact, Terms of Service, and Privacy Policy pages.  
+- Displays social media icons and copyright information.  
+- Adapts to dark/light theme settings.  
+
+### 4. Search Bar
+**Description:**
+An interactive component for users to search listings based on location, dates, and number of guests.
+
+**Features:**
+- Auto-suggestion for locations.  
+- Integrated date picker.  
+- Guest count selector.  
+- Search button that triggers filtered results.  
+
+### 5. Property Details Component
+**Description:**
+Displays detailed information about a selected property, including description, amenities, availability, and reviews.
+
+**Features:**
+- Image carousel for property photos.  
+- Booking button with price calculation.  
+- Interactive map showing property location.  
+
+### 6. Button Components
+**Description:**
+Reusable buttons for actions like booking, saving, logging in, or filtering.
+
+**Features:**
+- Consistent color scheme and hover states.  
+- Variants: primary, secondary, outline.  
+- Accessible for keyboard navigation and screen readers.  
+
+### 7. Modal/Popup Component
+**Description:**
+Used for displaying login forms, booking confirmations, or alert messages without leaving the current page.
+
+**Features:**
+- Smooth open/close animation.  
+- Background overlay for focus.  
+- Accessible with ESC key and tab navigation.  
